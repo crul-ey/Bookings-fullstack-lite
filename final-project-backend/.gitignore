@@ -1,0 +1,9 @@
+node_modules
+.vscode
+.zip
+zip
+*.log
+*.env
+*.local
+*.DS_Store
+*.suo   

@@ -1,0 +1,13 @@
+{
+    "admins": [
+      {
+        "username": "admin",
+        "password": "admin123",
+        "name": "Admin Account",
+        "email": "admin@example.com",
+        "phoneNumber": "0611111111",
+        "profilePicture": ""
+      }
+    ]
+  }
+  
